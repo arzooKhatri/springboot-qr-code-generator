@@ -27,3 +27,6 @@ You can replace the text parameter with any string you want to encode, for examp
 - https://www.youtube.com/watch?v=-Wabx4zaC40
 - https://github.com/codeonedigest/springbootqrcodegenerator
 - https://www.baeldung.com/java-generating-barcodes-qr-codes
+
+## for test scanner
+- https://scanqr.org/

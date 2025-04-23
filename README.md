@@ -22,3 +22,8 @@ curl --location 'http://localhost:8080/api/qr/generate?text=https%3A%2F%2Fstart.
 Note:
 You can replace the text parameter with any string you want to encode, for example:
 curl --location 'http://localhost:8080/api/qr/generate?text=arzooKhatri'
+
+## Refrence link
+https://www.youtube.com/watch?v=-Wabx4zaC40
+https://github.com/codeonedigest/springbootqrcodegenerator
+https://www.baeldung.com/java-generating-barcodes-qr-codes
